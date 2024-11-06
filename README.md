@@ -1,4 +1,4 @@
-# สวัสดี! นี่คือ My GitHub ของผมแหล่งรวมผลงานและประสบการณ์ ที่ผ่านมา
+# My GitHub A source of past work and experience
 
 สวัสดีครับ! ชื่อ **ปฏิพัทธ์ มังกะระ** (เปา) เป็นนักศึกษาคณะเทคโนโลยีสารสนเทศและการสื่อสารดิจิทัล (หลักสูตร Databases) และมีประสบการณ์ฝึกงานในตำแหน่ง **Developer** ที่บริษัท **Big C Supercenter Public Company Limited** โดยทำงานร่วมกับทีมในการพัฒนา **Web Application** โดยใช้ **Java Spring** และ **React/Next.js+TypeScript**
 
