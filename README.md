@@ -9,8 +9,13 @@
 
 🔧 **Programming Skill:**
 - Java, Spring Boot ☕️
+- Python 🐍
+- C, C++, C# 💻
 - React, Next.js, TypeScript ⚛️
 - Tailwind CSS 🪡
+- HTML, JavaScript, CSS 🌐
+- Kotlin (Basic) 🟦
+- MySQL 🗃️
 
 🔧 **Version Control:**
 - Git, GitHub 🐙
